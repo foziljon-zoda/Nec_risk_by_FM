@@ -1,4 +1,3 @@
-# Nec_risk_by_FM
 <!DOCTYPE html>
 <html lang="ru">
 <head>
